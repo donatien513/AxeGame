@@ -2,6 +2,9 @@
 
 An axe game made with C++ and Raylib https://www.raylib.com/.
 
+![image](https://user-images.githubusercontent.com/31708604/148263691-fa95869f-0953-4989-97a5-d3351c2ad8f8.png)
+
+
 # Dependency
 - C++ compiler `
 sudo apt update` `
