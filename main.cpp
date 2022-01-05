@@ -29,7 +29,7 @@ int main() {
   int axe_edge_right{axe_x};
 
   // Window opening
-  InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Hello World");
+  InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "Axe game");
   SetTargetFPS(60);
 
   bool collision_with_axe{false};
